@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ExaminationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|d:\\examinationsystem\\examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|d:\\examinationsystem\\examinationsystem\\questions\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\questions\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|d:\\examinationsystem\\examinationsystem\\exams\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\exams\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|d:\\examinationsystem\\examinationsystem\\questions\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\questions\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|d:\\examinationsystem\\examinationsystem\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|d:\\examinationsystem\\examinationsystem\\questions\\trueorfalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\questions\\trueorfalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|d:\\examinationsystem\\examinationsystem\\questions\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\questions\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|d:\\examinationsystem\\examinationsystem\\models\\answerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56617D2A-B9F0-3FB2-73E0-7CF8BF80CBF8}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\models\\answerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChooseAllQuestion.cs",
+              "DocumentMoniker": "D:\\ExaminationSystem\\ExaminationSystem\\Questions\\ChooseAllQuestion.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Questions\\ChooseAllQuestion.cs",
+              "ToolTip": "D:\\ExaminationSystem\\ExaminationSystem\\Questions\\ChooseAllQuestion.cs",
+              "RelativeToolTip": "ExaminationSystem\\Questions\\ChooseAllQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:39:26.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\ExaminationSystem\\ExaminationSystem\\Exams\\Exam.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Exams\\Exam.cs",
+              "ToolTip": "D:\\ExaminationSystem\\ExaminationSystem\\Exams\\Exam.cs",
+              "RelativeToolTip": "ExaminationSystem\\Exams\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:37:18.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuestionList.cs",
+              "DocumentMoniker": "D:\\ExaminationSystem\\ExaminationSystem\\Questions\\QuestionList.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Questions\\QuestionList.cs",
+              "ToolTip": "D:\\ExaminationSystem\\ExaminationSystem\\Questions\\QuestionList.cs",
+              "RelativeToolTip": "ExaminationSystem\\Questions\\QuestionList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:34:05.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\ExaminationSystem\\ExaminationSystem\\Questions\\Question.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Questions\\Question.cs",
+              "ToolTip": "D:\\ExaminationSystem\\ExaminationSystem\\Questions\\Question.cs",
+              "RelativeToolTip": "ExaminationSystem\\Questions\\Question.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvwEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:33:27.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrueOrFalseQuestion.cs",
+              "DocumentMoniker": "D:\\ExaminationSystem\\ExaminationSystem\\Questions\\TrueOrFalseQuestion.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Questions\\TrueOrFalseQuestion.cs",
+              "ToolTip": "D:\\ExaminationSystem\\ExaminationSystem\\Questions\\TrueOrFalseQuestion.cs",
+              "RelativeToolTip": "ExaminationSystem\\Questions\\TrueOrFalseQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:30:26.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ExaminationSystem\\ExaminationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Program.cs",
+              "ToolTip": "D:\\ExaminationSystem\\ExaminationSystem\\Program.cs",
+              "RelativeToolTip": "ExaminationSystem\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T14:55:16.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChooseOneQuestion.cs",
+              "DocumentMoniker": "D:\\ExaminationSystem\\ExaminationSystem\\Questions\\ChooseOneQuestion.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Questions\\ChooseOneQuestion.cs",
+              "ToolTip": "D:\\ExaminationSystem\\ExaminationSystem\\Questions\\ChooseOneQuestion.cs",
+              "RelativeToolTip": "ExaminationSystem\\Questions\\ChooseOneQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:32:37.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnswerList.cs",
+              "DocumentMoniker": "D:\\ExaminationSystem\\ExaminationSystem\\Models\\AnswerList.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Models\\AnswerList.cs",
+              "ToolTip": "D:\\ExaminationSystem\\ExaminationSystem\\Models\\AnswerList.cs",
+              "RelativeToolTip": "ExaminationSystem\\Models\\AnswerList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:29:40.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

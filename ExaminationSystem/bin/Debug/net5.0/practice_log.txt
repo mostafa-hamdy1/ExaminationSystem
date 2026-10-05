@@ -1,0 +1,4 @@
+[05/10/2026 06:40:08 م] Added Question: Q1 - What does OOP stand for? (Marks: 5)
+[05/10/2026 06:40:08 م] Added Question: Q2 - C# supports Multiple Class Inheritance directly. (Marks: 5)
+[06/10/2026 01:14:12 ص] Added Question: Q1 - What does OOP stand for? (Marks: 5)
+[06/10/2026 01:14:12 ص] Added Question: Q2 - C# supports Multiple Class Inheritance directly. (Marks: 5)
