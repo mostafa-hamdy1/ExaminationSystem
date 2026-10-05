@@ -1,35 +1,46 @@
+# 🎓 C# .NET Online Examination System
 
+<p align="center">
+  <img src="C%23%20.NET%20Online%20Examination%20System.png" alt="Examination System Banner" width="100%" />
+</p>
 
-A fully-featured, Object-Oriented Console-based Examination System built with C# and .NET Framework. This project demonstrates advanced software engineering practices, strong adherence to OOP principles, dynamic event handling, and robust data structures.
+A fully-featured, Object-Oriented **Console-based Examination System** built with **C#** and **.NET Framework**. This project demonstrates advanced software engineering practices, strong adherence to **OOP principles**, dynamic event handling, and robust data structures.
 
-🌟 Key Features
+---
 
-Multi-Type Questions Support:
+## 📌 Project Overview
 
-TrueOrFalseQuestion: Handles binary true/false evaluation.
+This application simulates a complete educational testing platform. It allows instructors to construct various question types and generate dynamic exams (Practice or Final) with automated grading, timed evaluations, and event notifications.
 
-ChooseOneQuestion: Single-choice multiple-question system.
+---
 
-ChooseAllQuestion: Multiple-choice selection mechanism.
+## 🌟 Key Features
 
-Dynamic Exam Generation:
+- **Multi-Type Questions Support:**
+  - `TrueOrFalseQuestion`: Binary true/false evaluation logic.
+  - `ChooseOneQuestion`: Single-choice question management.
+  - `ChooseAllQuestion`: Multiple-choice selection mechanism.
+- **Dynamic Exam Generation:**
+  - `PracticeExam`: Displays questions alongside correct answers and logs performance.
+  - `FinalExam`: Conducts a structured test and presents final scores upon completion.
+- **Generic Exam Management:** Custom generic list `ExamList<T>` with constraints for efficient handling.
+- **Event-Driven Architecture:** Uses C# Delegates & Events (`ExamStarted`) to notify registered `Student` instances automatically when an exam begins.
+- **Extensible Architecture:** Implements standard interfaces (`IComparable`, `ICloneable`) and method overriding (`Equals`, `GetHashCode`, `ToString`).
 
-PracticeExam: Displays questions alongside correct answers and logs user performance.
+---
 
-FinalExam: Conducts a timed/structured test and presents final results upon completion.
+## 🛠️ Tech Stack & Architecture
 
-Generic Exam Management: Custom generic list ExamList<T> with type constraints for efficient exam handling.
+- **Language:** C# (.NET Framework / .NET Core)
+- **Paradigm:** Object-Oriented Programming (OOP)
+- **Design Concepts:** Encapsulation, Inheritance, Polymorphism, Abstraction
+- **IDE:** Visual Studio 2022 / VS Code
 
-Event-Driven Architecture: Utilizes C# Delegates & Events (ExamStarted) to notify registered Student instances automatically when an exam begins.
+---
 
-Extensible Architecture: Implements C# standard interfaces (IComparable, ICloneable) and method overriding (Equals, GetHashCode, ToString).
+## 🏗️ Folder Structure
 
-Activity Logging: Generates output text logs for exam transactions and execution history.
-
-🏗️ Technical Architecture & Design Patterns
-
-The project follows a clean, modular folder structure for scalability and maintainability:
-
+```text
 ExaminationSystem/
 │
 ├── Enums/          # Question & Exam Category Enums
@@ -37,46 +48,6 @@ ExaminationSystem/
 ├── Questions/      # Question Hierarchy (Question, QuestionList, MCQ Classes)
 ├── Exams/          # Exam Management (Exam, PracticeExam, FinalExam, ExamList<T>)
 └── Program.cs      # Entry Point & Application Driver
-
-
-OOP Core Concepts Applied:
-
-Encapsulation: Properties with restricted accessors and private field protection.
-
-Inheritance: Base Question and Exam abstract classes extended by specialized types.
-
-Polymorphism: Method overriding for Display() and customized behavior per exam type.
-
-Abstraction: Hiding complex exam execution logic behind abstract contracts.
-
-🚀 Getting Started
-
-Prerequisites
-
-.NET SDK 5.0+
-
-Visual Studio 2022 / VS Code
-
-Installation & Execution
-
-Clone the repository:
-
-git clone https://github.com/mostafa-hamdy1/ExaminationSystem.git
-
-
-Navigate into the project folder:
-
-cd ExaminationSystem
-
-
-Build and run the project:
-
-dotnet run
-
-
-📸 Banner Preview
-
-The repository includes visual assets representing the system architecture and analytical dashboard design for full-stack C# .NET solution workflows.
 
 👤 Author
 
